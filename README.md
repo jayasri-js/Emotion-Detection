@@ -17,3 +17,9 @@ Emotion Detection
 
 This project is a deep learning-based emotion detection system built using Python and Gradio. It classifies facial expressions into multiple emotions using a convolutional neural network (CNN) trained on FER2013Plus dataset.
 
+
+* Developed an emotion detection model using CNN on Facial images.
+* Implemented data preprocessing & augmentation for better model generalization.
+* used pretrained Resnet50 model on greyscale images.
+* Achieved validation F1 score of 0.61 and Test F1 score of 0.62 .
+* Deployed the project with HuggingFace and Gradio app for interactive demonstration.
