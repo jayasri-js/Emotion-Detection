@@ -12,6 +12,7 @@ license: mit
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+Gradio Link : https://huggingface.co/spaces/jayasri7777/Emotion-Detection
 
 Emotion Detection
 
@@ -23,3 +24,4 @@ This project is a deep learning-based emotion detection system built using Pytho
 * used pretrained Resnet50 model on greyscale images.
 * Achieved validation F1 score of 0.61 and Test F1 score of 0.62 .
 * Deployed the project with HuggingFace and Gradio app for interactive demonstration.
+
